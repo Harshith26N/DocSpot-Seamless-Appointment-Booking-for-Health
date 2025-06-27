@@ -1,4 +1,3 @@
-# DocSpot-Seamless-Appointment-Booking-for-Health
 # DocSpot-Seamless-Appointment-Booking-System
 
 A full-stack web application to help users book doctor appointments online, with real-time scheduling, document uploads, admin approval, and doctor availability management.
